@@ -1,0 +1,8 @@
+## CoCalc specific files 
+# backup
+*.snapshots
+# chats
+*.sage-chat
+
+## Privacy keeping excludes
+echanges*
