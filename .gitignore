@@ -3,6 +3,14 @@
 *.snapshots
 # chats
 *.sage-chat
+# latex auxiliary files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
 
 ## Privacy keeping excludes
 echanges*
