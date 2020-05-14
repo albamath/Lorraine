@@ -1,5 +1,5 @@
-## CoCalc specific files 
-# backup
+# backups
+*.backup
 *.snapshots
 # chats
 *.sage-chat
