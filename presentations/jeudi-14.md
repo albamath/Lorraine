@@ -45,9 +45,28 @@ Un résultat classique de Poincaré montre la dichotomie suivante:
 
 Ν.Β. Une pièce clé de la preuve de se théorème est le développement en fractions continues d'$α$.
 
-En systèmes dynamiques, on regarde souvent le système à conjugaison près. Dans l'exemple qu'on vient de donner, c'est pareil d'étudier la dynamique de $ρ$ sur que d'étudier la translation par $α$ sur $𝕋 = ℝ/ℤ = [0,1]/\{0~1\}$. 
+En systèmes dynamiques, on regarde souvent le système à conjugaison près. Dans l'exemple qu'on vient de donner, c'est pareil d'étudier la dynamique de $ρ$ sur $𝕊^1$ que d'étudier la translation par $α$ sur $𝕋 = ℝ/ℤ = [0,1]/\{0~1\}$. 
 
-## Exemple le plus simple de surface de translation: le tore
+## Les rotations comme échanges d'intervalles
+
+Revenons à la rotations vue comme un déplacement par $α ∈ [0,1[$ sur $𝕋 = ℝ/ℤ = [0,1]/\{0~1\}$. Si on veut pour chaque élement de $𝕋$ utiliser aussi un représentant dans $[0,1[$, la définition de $ρ$ pourrait s'écrire comme l'union des deux applications suivantes:
+
+$$\begin{array}{rcrcll} ρ_- & : & [0,1-α[ & \to & [α,1[\\
+                            &   &    x \mapsto x + α $$
+
+et 
+
+$$\begin{array}{rcrcll} ρ_+ & : & [1-α,1[ & \to & [0,α[\\
+                            &   &    x \mapsto x + α - 1 $$
+
+De sorte que $ρ$ agit en échangeant deux intervalles - on dit que c'est un échange d'intervalles.
+
+De façon générale, un échange d'intervalles est une transformation d'un intervalle muni d'une partition finie en intervalles plus petits qui rearrange ces intervalles par des translations, de sorte que le résultat est encore une partition du plus grand intervalle (à ceci près que les bords des petits intervalles peuvent être couvers $0$, $1$ ou $2$ fois). Mon directeur de thèse, Jean-Christophe Yoccoz, avait beaucoup étudié la dynamique de ces systèmes.
+
+Ainsi, la rotation du cercle est un exemple d'échange d'intervalles avec deux intervalles.
+
+
+## Un exemple fondamental: le tore
 
 Mes recherches en systèmes dynamiques  portaient concrètement sur des surfaces de translation, principalement des surfaces de translation de mesure infinie. 
 Voyons d'abord la surface de translation la plus simple, le tore:
@@ -134,19 +153,67 @@ Dans le début de ma thèse je calcule explicitement l'application de premier re
 
 Considérons une suite bi-infinie de paramètres de rotation $α_n∈𝕋 = [0,1]/\{0~1\}$. Pour chaque suite de la sorte, appliquons la rotation par $α_n$ au cercle $\{n\}×𝕋$. Puis, coupons tous les cercles en deux intervalles de même longueur, independants des paramètres de rotation, et considérons leur intérieur, qu'on appelera la partie descendante, et la partie montante, puis déplaçons la partie de droite de un niveau vers le haut et la partie de gauche d'un niveau vers le bàs. 
 
-Ainsi, à chaque suite bi-infinie $(α_n)_{n∈ℤ}$ correspond une transformation du cylindre discret $ℤ×𝕋$, définie partout sauf sur un ensemble discret de points singuliers ( ceux qui après rotation arriveraient sur les bords des parties montantes et descendants). C'est cette famille de transformations que j'ai étudié dans ma thèse.
+Ainsi, à chaque suite bi-infinie $(α_n)_{n∈ℤ}$ correspond une transformation du cylindre discret $ℤ×𝕋$, définie partout sauf sur un ensemble discret de points singuliers ( ceux qui après rotation arriveraient sur les bords des parties montantes et descendants). C'est cette famille de transformations $T_{α_}$ que j'ai étudié dans ma thèse.
 
 ## Dynamique générique d'une famille de transformations de $ℤ×𝕋$
 
+La famille de transformations ainsi définie a comme espace de paramètres $𝕋^n$, qui dispose d'une mesure de probabilité et d'une topologie produit. C'est en particulier un espace de Baire. Un ensemble $G_δ$-dense est défini comme une intersection dénombrable d'ensembles ouverts denses, et un espace de Baire est un espace topologique où tout ensemble $G_δ$-dense est dense. 
 
+On dit qu'une propriété dynamique est presque sûre dans la famille si et seulement si elle est satisfaite sur un ensemble de mesure totale de paramètres. On dit que la propriété est (Baire) générique si elle est satisfaite sur un ensemble $G_\delta$-dense de paramètres.
 
+Pour simplifier les notations, on va écrire $α$ pour la suite $(α_n)_{n\in ℤ}$. Dans ma thèse j'ai demontré que:
 
-# Les illustrations des mathématiques
+- presque sùrement, $T_α$ n'a pas d'ensemble errant de mesure positive
+- génériquement:
+      - $T_α$ est conservative
+      - toute demi-orbite $T_α$ définie pour une infinité d'itérations est dense (c-à-d $T_α$ est **minimal**)
+      - tout sous-ensemble invariant par $T_α$ est de mesure nulle ou bien a un complement de mesure nulle (c-à-d $T_α$ est **ergodique**)
+
+## Techniques developpées dans la thèse
+
+Pour montrer ces résultats, je me suis appuyé sur des résultats bien connus pour des échanges d'intervalles, pour lesquelles les propriétés dynamiques que j'étudiais était déjà bien connues:
+
+**Thm (Poincaré)** Tout système dynamique de mesure finie est conservatif.
+
+**Thm (Keane)** Tout échange d'intervalles "irréductible" est minimal.  
+
+**Thm (Masur-Tabachnikov)** Tout échange d'intervalle minimal est aussi ergodique.
+
+Ensuite, j'ai procédé par perturbations: des valeurs spéciales de $α_n=±½$, (c-à-d les rotations par un demi-tour), permettent d'obtenir des sous-ensembles dans l'espace des phases qui sont invariants et qui sont des échanges d'intervalles classiques. Ensuite, en traduit la propriété dynamique qu'on veut montrer dans une formule quantitative et puis on construit des ouverts denses autour de ces paramètres spéciaux en prenant garde à ne pertuber qu'un petit peu cette formule. 
+
+## Les surfaces en escalier.
+
+Les résultats obtenus dans ma thèse se traduisent sur des surfaces de translation d'un type particulier, les surfaces en escalier.
+
+En effet, considérons un collection dénombrable de rectangles de même largeur mais de hauteur variable, superposées comme un escalier qui monterait de gauche à droite, recollé sur la moitié de la largeur entre chaque marche et la suivante. Identifions les "côtés opposés" comme on avait fait pour le tore où la surface en L.
+
+On obtient ainsi une famille de surfaces de translations, avec une surface en escalier pour chaque suite bi-infinie de hauteurs. 
+
+Fixons une direction ni verticale, ni horizontale, l'application de premier retour sur les sections circulaires à mi-hauteur de chaque marche devient alors la transformation étudiée dans ma thèse. 
+
+## Le modèle wind-tree des Ehrenfest: 
+
+Tout de suite après ma thèse, j'ai effectué un postdoctorat à l'université de Marseille. J'y ai initié une collaboration avec Serge Troubetzkoy qui a donné lieu à cinq articles (quatre déjà parus), concernant principalement la dynamique générique du modèle du wind-tree des Ehrenfest.
+
+Le wind-tree est un billard mathématique qu'on joue dans le complement d'un ensemble d'obstacles carrés, parallèles les uns aux autres. 
+
+https://rantonse.no/demos/MirrorRoom/
+
+Avec Serge, on a montré que génériquement, la dynamique du wind-tree est minimale (2015), ergodique (2016), de puissances cartésiennes ergodiques (2016-2017) et uniquement ergodique (2017-2019) dans presque toute direction. Les techniques de demonstration restent similaires à ce que j'avais fait dans ma thèse, mais la maîtrise technique et calculatoire nécessaire pour mener les preuves à bout est plus poussée pour pouvoir couvrir simultanément un ensemble large de directions - et car on s'occupe aussi de propriétés dynamiques plus subtiles. 
+
+## Retour aux surfaces en escalier:
+
+Les résultats que je viens d'énoncer pour le wind-tree, sont aussi valides pour des familles de surfaces en escaliers où l'on varie une seule sorte de paramètres de construction: la hauteur des marches, la largeur des marches ou la taille de recollement entre une marche et la suivante. 
+
+Pourtant, sauf dans notre dernier pre-print, avec Serge on a rédigé les preuves pour le wind-tree et non pas pour des surfaces en escalier. Je prépare un article de survol qui contiendra les preuves pour le cas des surfaces en escaliers, et j'ose esperer qu'il sera plus accessible et plus lisible maintenant que le sujet a bien mûri pour moi. 
+
+# Illustrations des mathématiques et intégration dans Gamble
 
 ## Impression 3D de surfaces algébriques
 ## Impression 3D d'autres objets mathématiques
 ## Analyse d'anciens objets en plâtre
-# Intégration dans Gamble
+
+# Ce que (je pense que) je peut apporter dans Gamble
 ## En tant que mathématicienne
 Compétences poussées en:
 
