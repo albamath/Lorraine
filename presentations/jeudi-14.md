@@ -209,9 +209,38 @@ Pourtant, sauf dans notre dernier pre-print, avec Serge on a rédigé les preuve
 
 # Illustrations des mathématiques et intégration dans Gamble
 
+## Tores plats et autres surfaces de translation pliées en origami
+
+Projet commencé à l'ICERM pendant mon dernier postdoc. C'est un travail en commun avec Pierre Arnoux et Samuel Lelièvre.
+Au premier abord, obtenir un tore plié en papier qui soit plat sur toute sa surface sans être aplati ne paraît pas évident. C'est pourtant possible. Nous l'avons appris de Henry Segerman, dont voici une vidéo présentant le concept. Nous avons généralisé ce qu'il nous a expliqué pour couvrir tous les patrons de tores plats possibles sauf le tore carré et le tore "hexagonal" (nous rédigeons actuellement la preuve de cela).
+
+Mais nous voulons aller plus loin. Nous voulons obtenir des pliages (avec un petit nombre de triangles) d'autres surfaces de translation "finies" qui représentent fidèlement les angles. Nous pensions prendre comme point de départ un article classique de Burago et Zalgaller qui donne une méthode constructive, mais je me demande si une approche probabiliste ne pourrait pas aider ici.
+
+Par ailleurs, nous sommes toujours à la recherche d'images intéressantes à mettre sur des tores en papier - je serai plus que ravie que ceux d'entre vous qui ont travaillé sur des graphes toroïdaux par exemple me permettent de les représenter sur nos tores plats.
+
+## Pliages en papier hyperbolique (ou Kombucha)
+
+Pendant mon séjour à l'ICERM, j'ai aussi fabriqué un peu de papier hyperbolique. Un article très populaire du Mathematical Intelligencer présentait l'adaptation de l'origami du oiseau japonais sur du papier hyperbolique avec un pentagone régulier à angles droits comme point de depart. Deux collègues, Aaron Abrams et Stepan Paul se sont saisi de cela en fabricant du papier hyperbolique sur une pseudosphère. Je les ai rejoint ensuite avec une surface de Dini de grande taille. 
+
+Je me demande s'il n'y pas moyen d'automatiser cette conversion de l'origami classique vers de l'origami hyperbolique, comme une sorte de traducteur. ça vous intéresserait ?
+
+Par ailleurs, de même qu'on a réussi à avoir un tore plat avec du papier plat, on se demande s'il n'y aurait pas moyen de plier une du papier hyperbolique pour une surface de genre deux ou supérieur sans singularités intrinsèques. Le problème est posé mais notre reflexion n'est pas encore très avancée, elle avancerait peut-être mieux chez vous.
+
+Un problème en rapport est celui de representer des "polyèdres" hyperbolique par pliages dans R3, avec une fidélité aux angles fixés dans chaque coin. 
+
 ## Impression 3D de surfaces algébriques
+
+J'ai commencé à imprimer des surfaces algébriques en 3D pendant mon premier post-doctorat à Marseille, pour remplacer l'absence d'écrans à une exposition. Les modèles Imaginary étaient tous faits avec l'algorithme de marching cubes qui est, pour ainsi dire un peu agressif avec les points singuliers de surfaces algébriques. Par exemple, il se casse les dents sur Miau.  Finalement, les modèles de surfaces algébriques que j'ai créé involucraient une étape de paramétrisation de la surface qui est difficile - et peut-être même pas toujours possible de façon en même temps globale et agréable. Je veux un modèle de Miau et je ne l'ai pas car je n'ai pas réussi à la paramétriser "agréablement".
+
+C'est pour ça que regarder ISOTOP, ça me fait rêver. Je veux la même chose en 3D. Je veux travailler avec vous pour atteindre ce but.
+
 ## Impression 3D d'autres objets mathématiques
+
+Je n'imprime pas que des surfaces algébriques. Je m'intèresse aussi à l'impression 3D de polyèdres, de polytopes, de graphes, dans un but de visualisation. Des problèmes de visibilités apparaissent assez naturellement dans ce cadre. Quelle est la meilleure projection du polytope, celle qui permettra mieux de le comprendre ? J'aimerais bien reflechir avec vous à ce genre de problèmes.
+
 ## Analyse d'anciens objets en plâtre
+
+Voici un problème qui m'intèresse depuis longtemps et qui pourrait beaucoup bénéficier de ma présence chez Gamble car on aura besoin d'y appliquer des algorithmes probabilistes d'géométrie computationelle. Il s'agit de la reconstruction numérique d'objets mathématiques historiques. J'ai commencé à m'intéresser à ce problème lorsqu'on m'a demandé de commenter une surface de Kummer à 8 points réels doubles et que j'ai découvert que la carte postale de l'IHP décrivant cet objet avait une erreur dans la formule.
 
 # Ce que (je pense que) je peut apporter dans Gamble
 ## En tant que mathématicienne
