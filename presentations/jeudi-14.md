@@ -45,11 +45,11 @@ Un résultat classique de Poincaré montre la dichotomie suivante:
 
 Ν.Β. Une pièce clé de la preuve de se théorème est le développement en fractions continues d'$α$.
 
-En systèmes dynamiques, on regarde souvent le système à conjugaison près. Dans l'exemple qu'on vient de donner, c'est pareil d'étudier la dynamique de $ρ$ sur $𝕊^1$ que d'étudier la translation par $α$ sur $𝕋 = ℝ/ℤ = [0,1]/\{0~1\}$. 
+En systèmes dynamiques, on regarde souvent le système à conjugaison près. Dans l'exemple qu'on vient de donner, c'est pareil d'étudier la dynamique de $ρ$ sur $𝕊^1$ que d'étudier la translation par $α$ sur $𝕋 = ℝ/ℤ = [0,1]/\{0\sim1\}$. 
 
 ## Les rotations comme échanges d'intervalles
 
-Revenons à la rotations vue comme un déplacement par $α ∈ [0,1[$ sur $𝕋 = ℝ/ℤ = [0,1]/\{0~1\}$. Si on veut pour chaque élement de $𝕋$ utiliser aussi un représentant dans $[0,1[$, la définition de $ρ$ pourrait s'écrire comme l'union des deux applications suivantes:
+Revenons à la rotations vue comme un déplacement par $α ∈ [0,1[$ sur $𝕋 = ℝ/ℤ = [0,1]/\{0\sim1\}$. Si on veut pour chaque élement de $𝕋$ utiliser aussi un représentant dans $[0,1[$, la définition de $ρ$ pourrait s'écrire comme l'union des deux applications suivantes:
 
 $$\begin{array}{rcrcll} ρ_- & : & [0,1-α[ & \to & [α,1[\\
                             &   &    x \mapsto x + α $$
@@ -151,7 +151,7 @@ Dans le début de ma thèse je calcule explicitement l'application de premier re
 
 ## Une famille de transformations du cylindre discret $ℤ×𝕋$
 
-Considérons une suite bi-infinie de paramètres de rotation $α_n∈𝕋 = [0,1]/\{0~1\}$. Pour chaque suite de la sorte, appliquons la rotation par $α_n$ au cercle $\{n\}×𝕋$. Puis, coupons tous les cercles en deux intervalles de même longueur, independants des paramètres de rotation, et considérons leur intérieur, qu'on appelera la partie descendante, et la partie montante, puis déplaçons la partie de droite de un niveau vers le haut et la partie de gauche d'un niveau vers le bàs. 
+Considérons une suite bi-infinie de paramètres de rotation $α_n∈𝕋 = [0,1]/\{0\sim1\}$. Pour chaque suite de la sorte, appliquons la rotation par $α_n$ au cercle $\{n\}×𝕋$. Puis, coupons tous les cercles en deux intervalles de même longueur, independants des paramètres de rotation, et considérons leur intérieur, qu'on appelera la partie descendante, et la partie montante, puis déplaçons la partie de droite de un niveau vers le haut et la partie de gauche d'un niveau vers le bàs. 
 
 Ainsi, à chaque suite bi-infinie $(α_n)_{n∈ℤ}$ correspond une transformation du cylindre discret $ℤ×𝕋$, définie partout sauf sur un ensemble discret de points singuliers ( ceux qui après rotation arriveraient sur les bords des parties montantes et descendants). C'est cette famille de transformations $T_{α_}$ que j'ai étudié dans ma thèse.
 

@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Systèmes dynamiques}{2}{0}{1}
+\beamer@sectionintoc {2}{Illustrations des mathématiques et intégration dans Gamble}{27}{0}{2}
+\beamer@sectionintoc {3}{Ce que (je pense que) je peut apporter dans Gamble}{34}{0}{3}
