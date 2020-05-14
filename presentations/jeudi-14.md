@@ -186,3 +186,4 @@ Cela permet de trouver plus facilement non seulement un public mais aussi des co
 Le réseau AudiMath réuni des mathématiciens universitaires qui font de la diffusion scientifique. Avec Imaginary, j'y participe depuis 2015. 
 - un savoir-faire de "maker"
 Au fur et à mesure, je suis devenue familière du découpage laser et de l'impression 3D ce qui me permet de prototyper très rapidement toutes sortes d'illustrations - on pourrait utiliser ce savoir-faire pour vos algos.
+  
