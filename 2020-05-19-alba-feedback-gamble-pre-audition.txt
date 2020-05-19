@@ -1,0 +1,245 @@
+2020-05-19-alba-feedback-gamble-pre-audition.txt
+
+Parcours
+
+pas assez lisible
+
+rendre clair la sépration entre formation et expérience
+
+dire qu'il y des maths et de l'info tout au long du parcours
+
+remettre à la fin un résumé opérationnel
+
+- [Conseils de Petra Isenberg de Aviz sur cette même planche]
+  plutôt une timeline
+
+- autre idée:
+  en grisé derrière une carte de la France et du Pérou
+
+- ajouter agreg et capes pour montrer que je ne suis pas snob
+  (mon cv dit "École polytechnique" et "ÉNS")
+  et on pourrait me faire un procès d'élitisme
+
+Faire en sorte qu'ils sachent que je sais faire du JavaScript.
+C'est plus de la programmation par prototype.
+
+Faire gaffe à ne pas faire comme si mon cours de programmation
+orientée objet 
+
+Ils peuvent très bien m'épingler sur JavaScript.
+
+Slide 5 et 6
+
+- deux slides à séparer en trois
+  - liste avec sous-items sur P8 et UPSud cours d'info
+    en disant quel contexte, quel public
+    - P8: formation accessibilité, public en formation initiale
+    - PSud
+  - détailler plus les cours
+    - calcul formel avec SageMath: enseigné le Python du même coup
+    - manque un cours à Orsay
+    - ne pas insister sur ma capacité à faire des cours de maths:
+      mettre "et aussi:" et en deux lignes
+      sinon on pourrait penser que je ne veux faire que des cours de maths
+  - nouveau slide 7: beaucoup de détails sur mon ater à Paris 8,
+    en montrant mon niveau de responsabilité (qui était celui d'un mcf)
+
+
+
+Anciens slides 7 et 8 "Facultés d'adaptation"
+et "Médiation scientifique":
+à mettre à la fin de la partie enseignement,
+car tels quels ils cassent le flot.
+L'intérêt de la planche "médiation scientifique"
+sera, puisque le MMI a une composante artistique
+
+ils ont des "ateliers" qui sont des moments pédagogiques
+de type hackathon.
+
+En déplaçant tout ça à la fin, après la planche "médiation"
+ajouter une planche "intégration au MMI" avec mes atouts
+- compétence pour enseigner les cours techniques
+- intérêt pour la médiation et donc la communication
+- souci de l'accessibilité
+
+Planches 9 10 11 "PPN": les regrouper en une seule planche
+
+Planche 12: détail des cours d'informatique en MMI
+ce sont les cours de la plaquette actuelle;
+une réforme des IUT se prépare;
+soit mettre une petite ligne soit mentionner à l'oral
+que je suis au courant de cette réforme qui arrive,
+et qu'il y aura du montage de cours, et que ça me fait pas peur
+
+Dans les slides tels que je les ai maintenant,
+j'ai mis "déjà enseigné", déjà suivi, appris sur le tas, et "bof"
+
+Ce n'est pas les bonnes catégories, ce qui intéresse le jury c'est
+- enseignable dès septembre
+- enseignable dès octobre
+- enseignable dès janvier
+
+Mentionner à l'oral que je suis prête à enseigner les réseaux
+et que je sais qu'il faut faire un effort de pédagogie;
+en IUT on cherche toujours du monde pour enseigner les réseaux
+donc si tu demandes on te le donne tout de suite, et on apprécie
+que tu saches le faire et veuilles le faire bien;
+(mentionner que j'ai fait la spécialisation réseaux à Polytechnique)
+
+Planche 17
+- le ppn du dut mmi: cours en esthétique / vidéo
+--> ne pas insister sur le fait que je peux enseigner les maths,
+c'est de toute façon évident via mon cv
+
+les cours de culture scientifique c'est des maths,
+mais renommés pour ne pas faire peur aux jeunes
+
+garder cette planche mais virer les maths, et avec la place gagnée,
+donner plus de détail sur les SVG et mentionner que ça pourrait
+donner lieu à un atelier commun avec prof d'infographie,
+et dire que j'utilise Blender pour l'impression 3D
+pour le Rendering chez eux en général ils utilisent 3DS.
+
+Virer Scribus qui n'intéresse probablement pas les gens.
+
+PLanches 18 et 19
+je n'aurai pas à m'occuper du PPP
+les projets personnels et professionnels
+les profs d'informatique font déjà tellement de cours chaque année
+qu'on laisse les PPP aux profs de physique qui sont en sous-service
+
+je peux le mentionner mais pas en disant que je veux
+en prendre la responsabilité; plutôt dire que je peux
+contribuer ma pierre au PPP avec mon réseau; peut-être
+virer complètement, ou en tous cas résumer 18 et 19
+en quelques lignes
+
+Planche 20 "projet tutoré": virer
+idem 10 et 11, n'apporte quasiment rien
+
+Planches 21 et 22: virer; je peux dire à l'oral que je sais
+que le projet tutoré est sur 3 semestres
+
+Étre plus explicite sur mes propositions:
+- donner des exemples de ce qui s'est fait au Geometry Lab à Washington
+
+Dans la plaquette MMI on dit explicitement que le 3e semestre de
+projet tutoré doit se faire en anglais, donc collaboration avec
+étudiants américains c'est parfait
+
+Projet sur l'impression 3D
+
+Planche 24: "Quelle recherche" (planche d'intro à la partie recherche)
+
+Planches de recherche: plusieurs problèmes
+- les résultats ont disparu
+- ajouter le slide résultats
+
+Ajouter des planches sur la licence pro (je n'ai reçu les liens
+vers la plaquette que tard)
+Ne pas trop insister: on cherche à recruter surtout pour le DUT
+mais ajouter une planche
+- prendre en compte que l'informatique n'est pas au centre des licences pro
+- les étudiant-es de licnece pro ne sont pas forcément des anciens du MMI
+- les licences pro c'est bc plus flexible que le DUT
+  - il y a une plaquette nationale pour le DUT,
+    proposer un nouveau cours montrerait qu'on n'a rien compris
+  - ce n'est pas pareil en licence pro
+
+Recherche
+
+Présentation de ma recherche avant GAMBLE, j'ai 5 min.
+C'est plus que dans d'autres auditions mais quand même pas beaucoup.
+
+Commencer par rotation sur le cercle et sa relation avec
+tore et billard dans un rectangle.
+
+Le faire avec de meilleures animations, de meilleures images.
+
+Ce serait bien de les assommer quand même avec la totale côté
+résultats et applications
+- un slide résultats
+- un slide "liste des publis"
+- un slide applications
+  --> la conjecture des Ehrenfest qui sort dans un corollaire
+    dans l'article indice ergodique infini avec Serge
+
+## Intégration dans l'équipe de recherche
+
+Passer plus de temps sur deux projets en particulier
+
+- pliages en papier plat ou hyperbolique
+  - pour le papier hyperbolique
+    - donner le crédit pour les images de Edmund
+    - montrer les objets (les photos sont tellement pro
+      qu'on ne devine pas que ce sont des objets que j'ai)
+    - faire la démo papier hyperbolique et sa courbure
+
+--> ma thèse et ce que j'ai fait à la suite 
+    se raccorde bien dans le "non-euclidien" de Gamble
+
+- dessin certifié de surfaces
+  - des gens de Gamble s'intéressent au dessin certifié de surfaces
+  - moi je veux les imprimer en 3D
+  - cela donne lieu aux mêmes problématiques
+  - solution "ISOTOPE" très mature pour les courbes
+  - pas encore de solution mature pour les surfaces
+
+Image de Miau: mentionner ce qui pose problème pour construire
+le modèle 3D avec les outils existants.
+
+J'ai un accord avec Herwig qui m'a dit que si j'arrive à faire un modèle
+il va utiliser son financement pour en commander une grande version.
+
+Peut-être mentionner qu'un modèle existe (celui de Silviana Amethyst)
+mais pas encore satisfaisant de mon point de vue.
+
+Peut-être mentionner solutions numériques comme Bertini2 et Multifario.
+
+-----
+SageMath-Blender
+- voir `SageMath-Blender`
+
+Pop!_OS 20.04
+
+Sage 9.0
+
+Blender 2.82
+
+https://system76.com/pop
+https://github.com/pop-os/pop
+
+Première fois que j'ai une machine Linux où le wifi
+marche sans devoir redémarrer
+
+- oryx pro
+- mieux: ADER WS de System76
+  c'est la seule machine sur le marché
+  qui vient avec Linux et un écran 4K
+  (comme chez Mac); l'autre a seulement
+  "full hd" mais fait un demi-kilo de moins
+
+-----
+
+Pat m'a envoyé du code
+
+Je vais écrire à Silviana
+
+-----
+
+Gamble est une équipe officiellement en info,
+mais c'est une des équipes les plus matheuses
+
+Sur les 5 projets qu j'ai listés,
+- passer plus de temps sur les e2 premiers
+- mettre les 3 derniers sur une même planche
+
+Je suis mathématicienne, j'arrive chez Gamble
+qui est une équipe d'informatique qui utilise
+des mathématiques...
+
+-----
+Mon ordinateur a un vrai clavier, avec des touches
+qui ont la bonne résistance, où tu sais si tu as appuyé dessus,
+il est rétro-éclairé, et on peut choisir la couleur.
+
