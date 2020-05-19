@@ -4,13 +4,13 @@ Parcours
 
 pas assez lisible
 
-rendre clair la sépration entre formation et expérience
+☑ rendre clair la sépration entre formation et expérience
 
-dire qu'il y des maths et de l'info tout au long du parcours
+☑ dire qu'il y des maths et de l'info tout au long du parcours
 
-remettre à la fin un résumé opérationnel
+☐ remettre à la fin un résumé opérationnel
 
-- [Conseils de Petra Isenberg de Aviz sur cette même planche]
+☑ - [Conseils de Petra Isenberg de Aviz sur cette même planche]
   plutôt une timeline
 
 - autre idée:
@@ -24,7 +24,8 @@ Faire en sorte qu'ils sachent que je sais faire du JavaScript.
 C'est plus de la programmation par prototype.
 
 Faire gaffe à ne pas faire comme si mon cours de programmation
-orientée objet 
+orientée objet en Java étaient la même chose que les cours 
+de programmation orientée objet en Javascript dont la MMI a besoin
 
 Ils peuvent très bien m'épingler sur JavaScript.
 
