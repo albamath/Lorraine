@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.5.5">
-    <DOCUMENT ANZPAGES="22" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="21.259842519685" BORDERRIGHT="21.259842519685" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="47" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="fr" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.001" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+    <DOCUMENT ANZPAGES="27" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="21.259842519685" BORDERRIGHT="21.259842519685" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="47" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="fr" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.001" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
@@ -131,7 +131,7 @@
             </Set>
         </PageSets>
         <Sections>
-            <Section Number="0" Name="0" From="0" To="21" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+            <Section Number="0" Name="0" From="0" To="26" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="-1" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -156,6 +156,11 @@
         <PAGE PAGEXPOS="100.001" PAGEYPOS="6758.26871653544" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="19" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="7112.91438582678" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="20" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="7467.56005511812" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="21" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="7822.20572440946" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="22" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="8176.85139370079" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="23" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="8531.49706299213" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="24" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="8886.14273228347" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="25" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="9240.78840157481" PAGEWIDTH="314.645669291339" PAGEHEIGHT="314.645669291339" BORDERLEFT="19.8425196850394" BORDERRIGHT="19.8425196850394" BORDERTOP="0" BORDERBOTTOM="0" NUM="26" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="0 19.8425 294.803 314.646 " HorizontalGuides="19.8425 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <FRAMEOBJECT InID="59566414" XPOS="0" YPOS="0" OwnPage="-1" ItemID="450959334" PTYPE="4" WIDTH="130.2" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L130.2 0 L130.2 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L130.2 0 L130.2 11.9521 L0 11.9521 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="130.2" gHeight="11.95209922158" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -733,7 +738,7 @@
         <PAGEOBJECT XPOS="193.965354330709" YPOS="3389.74928693068" OwnPage="9" ItemID="411960838" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="base de donnéees"/>
+                <ITEXT CH="base de données"/>
                 <trail PARENT="word cloud"/>
             </StoryText>
         </PAGEOBJECT>
@@ -998,13 +1003,6 @@
                 <para PARENT="word cloud"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="193.965354330709" YPOS="3744.39495622202" OwnPage="10" ItemID="438564038" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <ITEXT CH="base de donnéees"/>
-                <trail PARENT="word cloud"/>
-            </StoryText>
-        </PAGEOBJECT>
         <PAGEOBJECT XPOS="119.843519685039" YPOS="3793.41070425352" OwnPage="10" ItemID="451808118" PTYPE="4" WIDTH="146.775314960631" HEIGHT="11.4879335417554" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" copath="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1231.22225842522" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -1096,13 +1094,6 @@
                 <DefaultStyle/>
                 <ITEXT CH="algorithmique et programmation"/>
                 <para PARENT="word cloud"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="193.965354330709" YPOS="4099.04062551336" OwnPage="11" ItemID="440765318" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <ITEXT CH="base de donnéees"/>
-                <trail PARENT="word cloud"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="119.843519685039" YPOS="4148.05637354486" OwnPage="11" ItemID="472530822" PTYPE="4" WIDTH="146.775314960631" HEIGHT="11.4879335417554" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" copath="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1231.22225842522" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2180,5 +2171,597 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="358.3" YPOS="3274.49212598426" OwnPage="9" ItemID="437344982" PTYPE="6" WIDTH="10.0010000000004" HEIGHT="9.06299212598337" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M10.001 4.5315 C10.001 7.03426 7.7623 9.06299 5.0005 9.06299 C2.2388 9.06299 0 7.03426 0 4.5315 C0 2.02882 2.2388 0 5.0005 0 C7.7623 0 10.001 2.02882 10.001 4.5315 Z" copath="M10.001 4.53148 C10.001 7.03424 7.76236 9.06296 5.00048 9.06296 C2.2388 9.06296 0 7.03424 0 4.53148 C0 2.02881 2.2388 0 5.00048 0 C7.76236 0 10.001 2.02881 10.001 4.53148 Z" gXpos="223.441944979023" gYpos="-1561.49706299214" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="193.965354330709" YPOS="3744.39495622202" OwnPage="10" ItemID="463072470" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="base de données"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="193.965354330709" YPOS="4099.04062551336" OwnPage="11" ItemID="417141526" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="base de données"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="7842.0482440945" OwnPage="22" ItemID="434644134" PTYPE="4" WIDTH="274.96062992126" HEIGHT="59.4837205824491" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" copath="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" gXpos="14.5058023424964" gYpos="-1438.33275008032" gWidth="309.309" gHeight="262.791071590951" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="50"/>
+                <ITEXT CH="Le PPN du DUT MMI "/>
+                <para PARENT="title"/>
+                <ITEXT CH="cours de la catégorie informatique / réseaux"/>
+                <trail PARENT="subtitle"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="150.8" YPOS="7950.3083420488" OwnPage="22" ItemID="462502678" PTYPE="4" WIDTH="126.41883464567" HEIGHT="9.10268157325117" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" copath="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" gXpos="30.456480314961" gYpos="-1330.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et programmation"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="193.965354330709" YPOS="8000.14298771809" OwnPage="22" ItemID="416350278" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="base de donnéees"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8049.15873574959" OwnPage="22" ItemID="463605958" PTYPE="4" WIDTH="146.775314960631" HEIGHT="11.4879335417554" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" copath="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1231.22225842522" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="216.8" YPOS="8064.84377511967" OwnPage="22" ItemID="462563814" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="96.456480314961" gYpos="-1215.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement multimedia"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="240.8" YPOS="7979.3083420488" OwnPage="22" ItemID="432252614" PTYPE="4" WIDTH="136.2" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" gXpos="120.456480314961" gYpos="-1301.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration et gestion de contenus"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="175.8" YPOS="8085.84377511967" OwnPage="22" ItemID="462806646" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="55.456480314961" gYpos="-1194.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="296.8" YPOS="8009.84377511967" OwnPage="22" ItemID="462665974" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="176.456480314961" gYpos="-1270.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration multimedia"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="250.8" YPOS="8033.84377511967" OwnPage="22" ItemID="416732646" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="130.456480314961" gYpos="-1246.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.846669291339" YPOS="8079.84377511967" OwnPage="22" ItemID="416822566" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="184.5031496063" gYpos="-1200.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="168.16883464567" YPOS="7922.40240314512" OwnPage="22" ItemID="435844214" PTYPE="4" WIDTH="154.1" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" gXpos="47.8253149606311" gYpos="-1357.97859102969" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="programmation objet et événementielle"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="7978.3083420488" OwnPage="22" ItemID="462797734" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1302.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="308.247669291339" YPOS="7947.3083420488" OwnPage="22" ItemID="462436118" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="187.9041496063" gYpos="-1333.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8025.3083420488" OwnPage="22" ItemID="417175366" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1255.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 3"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="152.31883464567" YPOS="8268.44588188977" OwnPage="23" ItemID="462478694" PTYPE="6" WIDTH="187.8" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M187.8 12.5782 C187.8 19.5253 145.761 25.1565 93.9 25.1565 C42.0405 25.1565 0 19.5253 0 12.5782 C0 5.63147 42.0405 0 93.9 0 C145.761 0 187.8 5.63147 187.8 12.5782 Z" copath="M187.8 12.5782 C187.8 19.5252 145.762 25.1564 93.8997 25.1564 C42.0405 25.1564 0 19.5252 0 12.5782 C0 5.63144 42.0405 0 93.8997 0 C145.762 0 187.8 5.63144 187.8 12.5782 Z" gXpos="17.460779624693" gYpos="-1532.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="231.894700787402" YPOS="8326.44588188977" OwnPage="23" ItemID="462202598" PTYPE="6" WIDTH="147.624133858268" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M147.624 12.5782 C147.624 19.5253 114.579 25.1565 73.8121 25.1565 C33.0468 25.1565 0 19.5253 0 12.5782 C0 5.63147 33.0468 0 73.8121 0 C114.579 0 147.624 5.63147 147.624 12.5782 Z" copath="M147.624 12.5782 C147.624 19.5252 114.579 25.1564 73.8118 25.1564 C33.0468 25.1564 0 19.5252 0 12.5782 C0 5.63144 33.0468 0 73.8118 0 C114.579 0 147.624 5.63144 147.624 12.5782 Z" gXpos="97.0366457664252" gYpos="-1474.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8196.69391338584" OwnPage="23" ItemID="429219174" PTYPE="4" WIDTH="274.96062992126" HEIGHT="59.4837205824491" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" copath="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" gXpos="14.5058023424964" gYpos="-1438.33275008032" gWidth="309.309" gHeight="262.791071590951" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="50"/>
+                <ITEXT CH="Le PPN du DUT MMI "/>
+                <para PARENT="title"/>
+                <ITEXT CH="cours de la catégorie informatique / réseaux"/>
+                <trail PARENT="subtitle"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="305.41883464567" YPOS="8237.30236220473" OwnPage="23" ItemID="463170678" PTYPE="4" WIDTH="100" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100 0 L100 100 L0 100 L0 0 Z" copath="M0 0 L100 0 L100 100 L0 100 L0 0 Z" gXpos="305.41883464567" gYpos="2917.61732283464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="339.604149606299" YPOS="8237.70236220473" OwnPage="23" ItemID="463498166" PTYPE="4" WIDTH="55.2000000000007" HEIGHT="28.0230472440971" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L55.2 0 L55.2 28.023 L0 28.023 L0 0 Z" copath="M0 0 L55.2 0 L55.2 28.023 L0 28.023 L0 0 Z" gXpos="339.604149606299" gYpos="2918.01732283464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="prête de suite"/>
+                <trail PARENT="normal text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="150.8" YPOS="8304.95401134014" OwnPage="23" ItemID="463324662" PTYPE="4" WIDTH="126.41883464567" HEIGHT="9.10268157325117" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" copath="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" gXpos="30.456480314961" gYpos="-1330.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et programmation"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="193.965354330709" YPOS="8354.78865700943" OwnPage="23" ItemID="463502518" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="base de donnéees"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8403.80440504093" OwnPage="23" ItemID="463185110" PTYPE="4" WIDTH="146.775314960631" HEIGHT="11.4879335417554" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" copath="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1231.22225842522" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="216.8" YPOS="8419.48944441101" OwnPage="23" ItemID="463179846" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="96.456480314961" gYpos="-1215.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement multimedia"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="240.8" YPOS="8333.95401134014" OwnPage="23" ItemID="462856262" PTYPE="4" WIDTH="136.2" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" gXpos="120.456480314961" gYpos="-1301.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration et gestion de contenus"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="175.8" YPOS="8440.48944441101" OwnPage="23" ItemID="462827126" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="55.456480314961" gYpos="-1194.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="250.8" YPOS="8388.48944441101" OwnPage="23" ItemID="463259718" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="130.456480314961" gYpos="-1246.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.846669291339" YPOS="8434.48944441101" OwnPage="23" ItemID="462924918" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="184.5031496063" gYpos="-1200.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="168.16883464567" YPOS="8277.04807243646" OwnPage="23" ItemID="462940870" PTYPE="4" WIDTH="154.1" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" gXpos="47.8253149606311" gYpos="-1357.97859102969" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="programmation objet et événementielle"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8332.95401134014" OwnPage="23" ItemID="462894838" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1302.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="308.247669291339" YPOS="8301.95401134014" OwnPage="23" ItemID="415613014" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="187.9041496063" gYpos="-1333.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8379.95401134014" OwnPage="23" ItemID="415594118" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1255.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 3"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="355.1" YPOS="8250.44588188977" OwnPage="23" ItemID="415693798" PTYPE="6" WIDTH="10.01883464567" HEIGHT="9.9370078740194" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M10.0188 4.9685 C10.0188 7.71263 7.77614 9.93701 5.00942 9.93701 C2.24279 9.93701 0 7.71263 0 4.9685 C0 2.22448 2.24279 0 5.00942 0 C7.77614 0 10.0188 2.22448 10.0188 4.9685 Z" copath="M10.0188 4.96849 C10.0188 7.71261 7.77617 9.93698 5.0094 9.93698 C2.24279 9.93698 0 7.71261 0 4.96849 C0 2.22446 2.24279 0 5.0094 0 C7.77617 0 10.0188 2.22446 10.0188 4.96849 Z" gXpos="220.241944979023" gYpos="-1550.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="111.31883464567" YPOS="8726.28052755906" OwnPage="24" ItemID="415548550" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="-23.539220375307" gYpos="-1429.3937007874" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="110.004937007874" YPOS="8750.6937007874" OwnPage="24" ItemID="415508566" PTYPE="6" WIDTH="161.795062992126" HEIGHT="21.3000000000002" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M161.795 10.65 C161.795 16.532 125.578 21.3 80.8975 21.3 C36.2191 21.3 0 16.532 0 10.65 C0 4.76817 36.2191 0 80.8975 0 C125.578 0 161.795 4.76817 161.795 10.65 Z" copath="M161.795 10.65 C161.795 16.532 125.579 21.2999 80.8973 21.2999 C36.2191 21.2999 0 16.532 0 10.65 C0 4.76814 36.2191 0 80.8973 0 C125.579 0 161.795 4.76814 161.795 10.65 Z" gXpos="-24.8531180131026" gYpos="-1404.98052755906" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="152.31883464567" YPOS="8623.09155118111" OwnPage="24" ItemID="415498694" PTYPE="6" WIDTH="187.8" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M187.8 12.5782 C187.8 19.5253 145.761 25.1565 93.9 25.1565 C42.0405 25.1565 0 19.5253 0 12.5782 C0 5.63147 42.0405 0 93.9 0 C145.761 0 187.8 5.63147 187.8 12.5782 Z" copath="M187.8 12.5782 C187.8 19.5252 145.762 25.1564 93.8997 25.1564 C42.0405 25.1564 0 19.5252 0 12.5782 C0 5.63144 42.0405 0 93.8997 0 C145.762 0 187.8 5.63144 187.8 12.5782 Z" gXpos="17.460779624693" gYpos="-1532.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="231.894700787402" YPOS="8681.09155118111" OwnPage="24" ItemID="462273382" PTYPE="6" WIDTH="147.624133858268" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M147.624 12.5782 C147.624 19.5253 114.579 25.1565 73.8121 25.1565 C33.0468 25.1565 0 19.5253 0 12.5782 C0 5.63147 33.0468 0 73.8121 0 C114.579 0 147.624 5.63147 147.624 12.5782 Z" copath="M147.624 12.5782 C147.624 19.5252 114.579 25.1564 73.8118 25.1564 C33.0468 25.1564 0 19.5252 0 12.5782 C0 5.63144 33.0468 0 73.8118 0 C114.579 0 147.624 5.63144 147.624 12.5782 Z" gXpos="97.0366457664252" gYpos="-1474.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="302.31883464567" YPOS="8648.09155118111" OwnPage="24" ItemID="462269286" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="167.460779624693" gYpos="-1507.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="138.351393700787" YPOS="8651.09155118111" OwnPage="24" ItemID="462693446" PTYPE="6" WIDTH="147.767440944883" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M147.767 12.5782 C147.767 19.5253 114.69 25.1565 73.8837 25.1565 C33.0789 25.1565 0 19.5253 0 12.5782 C0 5.63147 33.0789 0 73.8837 0 C114.69 0 147.767 5.63147 147.767 12.5782 Z" copath="M147.767 12.5782 C147.767 19.5252 114.691 25.1564 73.8835 25.1564 C33.0789 25.1564 0 19.5252 0 12.5782 C0 5.63144 33.0789 0 73.8835 0 C114.691 0 147.767 5.63144 147.767 12.5782 Z" gXpos="3.49333867981042" gYpos="-1504.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8551.33958267718" OwnPage="24" ItemID="462738502" PTYPE="4" WIDTH="274.96062992126" HEIGHT="59.4837205824491" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" copath="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" gXpos="14.5058023424964" gYpos="-1438.33275008032" gWidth="309.309" gHeight="262.791071590951" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="50"/>
+                <ITEXT CH="Le PPN du DUT MMI "/>
+                <para PARENT="title"/>
+                <ITEXT CH="cours de la catégorie informatique / réseaux"/>
+                <trail PARENT="subtitle"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="150.8" YPOS="8659.59968063148" OwnPage="24" ItemID="462144022" PTYPE="4" WIDTH="126.41883464567" HEIGHT="9.10268157325117" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" copath="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" gXpos="30.456480314961" gYpos="-1330.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et programmation"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="193.965354330709" YPOS="8709.43432630077" OwnPage="24" ItemID="463491366" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="base de données"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8758.45007433227" OwnPage="24" ItemID="463547334" PTYPE="4" WIDTH="146.775314960631" HEIGHT="11.4879335417554" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" copath="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1231.22225842522" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="216.8" YPOS="8774.13511370235" OwnPage="24" ItemID="463565750" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="96.456480314961" gYpos="-1215.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement multimedia"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="240.8" YPOS="8688.59968063148" OwnPage="24" ItemID="463835158" PTYPE="4" WIDTH="136.2" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" gXpos="120.456480314961" gYpos="-1301.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration et gestion de contenus"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="175.8" YPOS="8795.13511370235" OwnPage="24" ItemID="463806198" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="55.456480314961" gYpos="-1194.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="250.8" YPOS="8743.13511370235" OwnPage="24" ItemID="463925494" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="130.456480314961" gYpos="-1246.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.846669291339" YPOS="8789.13511370235" OwnPage="24" ItemID="463868134" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="184.5031496063" gYpos="-1200.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="168.16883464567" YPOS="8631.6937417278" OwnPage="24" ItemID="463974614" PTYPE="4" WIDTH="154.1" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" gXpos="47.8253149606311" gYpos="-1357.97859102969" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="programmation objet et événementielle"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8687.59968063148" OwnPage="24" ItemID="463982838" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1302.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="308.247669291339" YPOS="8656.59968063148" OwnPage="24" ItemID="464030790" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="187.9041496063" gYpos="-1333.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8734.59968063148" OwnPage="24" ItemID="464007926" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1255.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 3"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="111.31883464567" YPOS="8678.09155118111" OwnPage="24" ItemID="464103382" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="-23.539220375307" gYpos="-1477.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="325.2" YPOS="8592.17480314961" OwnPage="24" ItemID="464114742" PTYPE="4" WIDTH="69.6041496062996" HEIGHT="58.6110236220475" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L69.6041 0 L69.6041 58.611 L0 58.611 L0 0 Z" copath="M0 0 L69.6041 0 L69.6041 58.611 L0 58.611 L0 0 Z" gXpos="325.2" gYpos="2917.84409448818" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="dès septembre"/>
+                <trail PARENT="normal text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="358.3" YPOS="8594.17716535434" OwnPage="24" ItemID="464085782" PTYPE="6" WIDTH="10.0010000000004" HEIGHT="9.06299212598337" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M10.001 4.5315 C10.001 7.03426 7.7623 9.06299 5.0005 9.06299 C2.2388 9.06299 0 7.03426 0 4.5315 C0 2.02882 2.2388 0 5.0005 0 C7.7623 0 10.001 2.02882 10.001 4.5315 Z" copath="M10.001 4.53148 C10.001 7.03424 7.76236 9.06296 5.00048 9.06296 C2.2388 9.06296 0 7.03424 0 4.53148 C0 2.02881 2.2388 0 5.00048 0 C7.76236 0 10.001 2.02881 10.001 4.53148 Z" gXpos="223.441944979023" gYpos="-1561.49706299214" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="111.31883464567" YPOS="9080.9261968504" OwnPage="25" ItemID="462638886" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="-23.539220375307" gYpos="-1429.3937007874" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="110.004937007874" YPOS="9105.33937007874" OwnPage="25" ItemID="462728118" PTYPE="6" WIDTH="161.795062992126" HEIGHT="21.3000000000002" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M161.795 10.65 C161.795 16.532 125.578 21.3 80.8975 21.3 C36.2191 21.3 0 16.532 0 10.65 C0 4.76817 36.2191 0 80.8975 0 C125.578 0 161.795 4.76817 161.795 10.65 Z" copath="M161.795 10.65 C161.795 16.532 125.579 21.2999 80.8973 21.2999 C36.2191 21.2999 0 16.532 0 10.65 C0 4.76814 36.2191 0 80.8973 0 C125.579 0 161.795 4.76814 161.795 10.65 Z" gXpos="-24.8531180131026" gYpos="-1404.98052755906" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9089.24534992282" OwnPage="25" ItemID="462337782" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1255.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 3"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="152.31883464567" YPOS="8977.73722047245" OwnPage="25" ItemID="462720726" PTYPE="6" WIDTH="187.8" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M187.8 12.5782 C187.8 19.5253 145.761 25.1565 93.9 25.1565 C42.0405 25.1565 0 19.5253 0 12.5782 C0 5.63147 42.0405 0 93.9 0 C145.761 0 187.8 5.63147 187.8 12.5782 Z" copath="M187.8 12.5782 C187.8 19.5252 145.762 25.1564 93.8997 25.1564 C42.0405 25.1564 0 19.5252 0 12.5782 C0 5.63144 42.0405 0 93.8997 0 C145.762 0 187.8 5.63144 187.8 12.5782 Z" gXpos="17.460779624693" gYpos="-1532.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="231.894700787402" YPOS="9035.73722047245" OwnPage="25" ItemID="464163302" PTYPE="6" WIDTH="147.624133858268" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M147.624 12.5782 C147.624 19.5253 114.579 25.1565 73.8121 25.1565 C33.0468 25.1565 0 19.5253 0 12.5782 C0 5.63147 33.0468 0 73.8121 0 C114.579 0 147.624 5.63147 147.624 12.5782 Z" copath="M147.624 12.5782 C147.624 19.5252 114.579 25.1564 73.8118 25.1564 C33.0468 25.1564 0 19.5252 0 12.5782 C0 5.63144 33.0468 0 73.8118 0 C114.579 0 147.624 5.63144 147.624 12.5782 Z" gXpos="97.0366457664252" gYpos="-1474.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="302.31883464567" YPOS="9002.73722047245" OwnPage="25" ItemID="464183590" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="167.460779624693" gYpos="-1507.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="138.351393700787" YPOS="9005.73722047245" OwnPage="25" ItemID="464179014" PTYPE="6" WIDTH="147.767440944883" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M147.767 12.5782 C147.767 19.5253 114.69 25.1565 73.8837 25.1565 C33.0789 25.1565 0 19.5253 0 12.5782 C0 5.63147 33.0789 0 73.8837 0 C114.69 0 147.767 5.63147 147.767 12.5782 Z" copath="M147.767 12.5782 C147.767 19.5252 114.691 25.1564 73.8835 25.1564 C33.0789 25.1564 0 19.5252 0 12.5782 C0 5.63144 33.0789 0 73.8835 0 C114.691 0 147.767 5.63144 147.767 12.5782 Z" gXpos="3.49333867981042" gYpos="-1504.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="111.31883464567" YPOS="9032.73722047245" OwnPage="25" ItemID="464134870" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="-23.539220375307" gYpos="-1477.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="236.11883464567" YPOS="9093.21556692914" OwnPage="25" ItemID="464290246" PTYPE="6" WIDTH="116.185314960629" HEIGHT="17" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="jaune" PCOLOR2="jaune" PLINEART="1" TransValue="0.5" path="M116.185 8.5 C116.185 13.1946 90.1775 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80558 26.009 0 58.0927 0 C90.1775 0 116.185 3.80558 116.185 8.5 Z" copath="M116.185 8.5 C116.185 13.1946 90.1776 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80557 26.009 0 58.0927 0 C90.1776 0 116.185 3.80557 116.185 8.5 Z" gXpos="99.4928346456706" gYpos="-1723.00984251969" gWidth="175.528211349722" gHeight="20" LAYER="0"/>
+        <PAGEOBJECT XPOS="156.11883464567" YPOS="9146.21556692914" OwnPage="25" ItemID="464318598" PTYPE="6" WIDTH="116.185314960629" HEIGHT="17" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="jaune" PCOLOR2="jaune" PLINEART="1" TransValue="0.5" path="M116.185 8.5 C116.185 13.1946 90.1775 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80558 26.009 0 58.0927 0 C90.1775 0 116.185 3.80558 116.185 8.5 Z" copath="M116.185 8.5 C116.185 13.1946 90.1776 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80557 26.009 0 58.0927 0 C90.1776 0 116.185 3.80557 116.185 8.5 Z" gXpos="19.4928346456706" gYpos="-1670.00984251969" gWidth="175.528211349722" gHeight="20" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="8905.98525196851" OwnPage="25" ItemID="464273318" PTYPE="4" WIDTH="274.96062992126" HEIGHT="59.4837205824491" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" copath="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" gXpos="14.5058023424964" gYpos="-1438.33275008032" gWidth="309.309" gHeight="262.791071590951" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="50"/>
+                <ITEXT CH="Le PPN du DUT MMI "/>
+                <para PARENT="title"/>
+                <ITEXT CH="cours de la catégorie informatique / réseaux"/>
+                <trail PARENT="subtitle"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="150.8" YPOS="9014.24534992282" OwnPage="25" ItemID="464430598" PTYPE="4" WIDTH="126.41883464567" HEIGHT="9.10268157325117" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" copath="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" gXpos="30.456480314961" gYpos="-1330.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et programmation"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9113.09574362361" OwnPage="25" ItemID="464489318" PTYPE="4" WIDTH="146.775314960631" HEIGHT="11.4879335417554" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" copath="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1231.22225842522" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="216.8" YPOS="9128.78078299369" OwnPage="25" ItemID="464455398" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="96.456480314961" gYpos="-1215.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement multimedia"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="240.8" YPOS="9043.24534992282" OwnPage="25" ItemID="464578214" PTYPE="4" WIDTH="136.2" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" gXpos="120.456480314961" gYpos="-1301.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration et gestion de contenus"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="175.8" YPOS="9149.78078299369" OwnPage="25" ItemID="464544598" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="55.456480314961" gYpos="-1194.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="250.8" YPOS="9097.78078299369" OwnPage="25" ItemID="464637414" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="130.456480314961" gYpos="-1246.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.846669291339" YPOS="9143.78078299369" OwnPage="25" ItemID="464612822" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="184.5031496063" gYpos="-1200.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="168.16883464567" YPOS="8986.33941101914" OwnPage="25" ItemID="464686534" PTYPE="4" WIDTH="154.1" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" gXpos="47.8253149606311" gYpos="-1357.97859102969" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="programmation objet et événementielle"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9042.24534992282" OwnPage="25" ItemID="464661814" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1302.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="308.247669291339" YPOS="9011.24534992282" OwnPage="25" ItemID="464755334" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="187.9041496063" gYpos="-1333.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9089.24534992282" OwnPage="25" ItemID="464719670" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1255.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 3"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="343.174803149606" YPOS="8944.8283464567" OwnPage="25" ItemID="464829462" PTYPE="4" WIDTH="53.1999999999999" HEIGHT="29.1653543307075" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L53.2 0 L53.2 29.1654 L0 29.1654 L0 0 Z" copath="M0 0 L53.2 0 L53.2 29.1654 L0 29.1654 L0 0 Z" gXpos="343.174803149606" gYpos="2915.85196850393" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="dès octobre"/>
+                <trail PARENT="normal text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="362.474803149605" YPOS="8947.21556692914" OwnPage="25" ItemID="464789878" PTYPE="6" WIDTH="9" HEIGHT="7.96947244094554" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="jaune" PCOLOR2="jaune" PLINEART="1" TransValue="0.5" path="M9 3.98474 C9 6.18552 6.98537 7.96947 4.5 7.96947 C2.01472 7.96947 0 6.18552 0 3.98474 C0 1.78403 2.01472 0 4.5 0 C6.98537 0 9 1.78403 9 3.98474 Z" copath="M8.99998 3.98474 C8.99998 6.18553 6.98538 7.96947 4.5 7.96947 C2.01472 7.96947 0 6.18553 0 3.98474 C0 1.78402 2.01472 0 4.5 0 C6.98538 0 8.99998 1.78402 8.99998 3.98474 Z" gXpos="225.848803149607" gYpos="-1869.00984251969" gWidth="175.528211349722" gHeight="20" LAYER="0"/>
+        <PAGEOBJECT XPOS="106.932283464567" YPOS="8943.98582677166" OwnPage="25" ItemID="464812502" PTYPE="4" WIDTH="69.6041496062996" HEIGHT="58.6110236220475" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L69.6041 0 L69.6041 58.611 L0 58.611 L0 0 Z" copath="M0 0 L69.6041 0 L69.6041 58.611 L0 58.611 L0 0 Z" gXpos="106.932283464567" gYpos="2915.00944881889" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="dès septembre"/>
+                <trail PARENT="normal text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.032283464567" YPOS="8945.98818897639" OwnPage="25" ItemID="464800118" PTYPE="6" WIDTH="10.0010000000004" HEIGHT="9.06299212598337" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M10.001 4.5315 C10.001 7.03426 7.7623 9.06299 5.0005 9.06299 C2.2388 9.06299 0 7.03426 0 4.5315 C0 2.02882 2.2388 0 5.0005 0 C7.7623 0 10.001 2.02882 10.001 4.5315 Z" copath="M10.001 4.53148 C10.001 7.03424 7.76236 9.06296 5.00048 9.06296 C2.2388 9.06296 0 7.03424 0 4.53148 C0 2.02881 2.2388 0 5.00048 0 C7.76236 0 10.001 2.02881 10.001 4.53148 Z" gXpos="5.1742284435897" gYpos="-1564.33170866143" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="193.965354330709" YPOS="9064.07999559211" OwnPage="25" ItemID="464906790" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="base de données"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="111.31883464567" YPOS="9435.57186614174" OwnPage="26" ItemID="464385606" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="-23.539220375307" gYpos="-1429.3937007874" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="110.004937007874" YPOS="9459.98503937008" OwnPage="26" ItemID="464381510" PTYPE="6" WIDTH="161.795062992126" HEIGHT="21.3000000000002" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M161.795 10.65 C161.795 16.532 125.578 21.3 80.8975 21.3 C36.2191 21.3 0 16.532 0 10.65 C0 4.76817 36.2191 0 80.8975 0 C125.578 0 161.795 4.76817 161.795 10.65 Z" copath="M161.795 10.65 C161.795 16.532 125.579 21.2999 80.8973 21.2999 C36.2191 21.2999 0 16.532 0 10.65 C0 4.76814 36.2191 0 80.8973 0 C125.579 0 161.795 4.76814 161.795 10.65 Z" gXpos="-24.8531180131026" gYpos="-1404.98052755906" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9443.89101921416" OwnPage="26" ItemID="464382534" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1255.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 3"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="291.11883464567" YPOS="9491.00236220473" OwnPage="26" ItemID="464335046" PTYPE="6" WIDTH="93.6813779527556" HEIGHT="22.1999999999998" FRTYPE="3" CLIPEDIT="1" PWIDTH="3" PCOLOR="Pantone 179 C" PCOLOR2="Pantone 179 C" PLINEART="1" TransValue="0.5" path="M93.6814 5.01693 C93.6814 15.8415 81.5011 22.2 45.1841 22.2 C8.86837 22.2 0 21.649 0 10.8243 C0 0 11.0529 2.75104 47.3686 2.75104 C83.6857 2.75104 85.8169 1.61809 93.6814 5.01693 Z" copath="M113.925 15.8097 C113.925 26.6343 84.4867 35.4087 48.1696 35.4087 C11.854 35.4087 -17.5857 26.6343 -17.5857 15.8097 C-17.5857 4.98536 11.854 -3.78941 48.1696 -3.78941 C84.4867 -3.78941 113.925 4.98536 113.925 15.8097 Z" gXpos="187.11783464567" gYpos="-1234.9384132441" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="231.894700787402" YPOS="9390.38288976379" OwnPage="26" ItemID="464157222" PTYPE="6" WIDTH="147.624133858268" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M147.624 12.5782 C147.624 19.5253 114.579 25.1565 73.8121 25.1565 C33.0468 25.1565 0 19.5253 0 12.5782 C0 5.63147 33.0468 0 73.8121 0 C114.579 0 147.624 5.63147 147.624 12.5782 Z" copath="M147.624 12.5782 C147.624 19.5252 114.579 25.1564 73.8118 25.1564 C33.0468 25.1564 0 19.5252 0 12.5782 C0 5.63144 33.0468 0 73.8118 0 C114.579 0 147.624 5.63144 147.624 12.5782 Z" gXpos="97.0366457664252" gYpos="-1474.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="181.11883464567" YPOS="9411.80236220473" OwnPage="26" ItemID="464145174" PTYPE="6" WIDTH="93.6813779527556" HEIGHT="24.3999999999996" FRTYPE="3" CLIPEDIT="1" PWIDTH="3" PCOLOR="Pantone 179 C" PCOLOR2="Pantone 179 C" PLINEART="1" TransValue="0.5" path="M93.6814 5.5141 C93.6814 17.4114 81.5011 24.4 45.1841 24.4 C8.86837 24.4 0 23.7944 0 11.897 C0 0 11.0529 3.02367 47.3686 3.02367 C83.6857 3.02367 85.8169 1.77844 93.6814 5.5141 Z" copath="M113.925 17.3764 C113.925 29.2737 84.4867 38.9177 48.1696 38.9177 C11.854 38.9177 -17.5857 29.2737 -17.5857 17.3764 C-17.5857 5.4794 11.854 -4.16494 48.1696 -4.16494 C84.4867 -4.16494 113.925 5.4794 113.925 17.3764 Z" gXpos="77.11783464567" gYpos="-1314.1384132441" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="209.71883464567" YPOS="9477.56399212599" OwnPage="26" ItemID="464149286" PTYPE="6" WIDTH="121.8" HEIGHT="19.5852133858271" FRTYPE="3" CLIPEDIT="1" PWIDTH="3" PCOLOR="Pantone 179 C" PCOLOR2="Pantone 179 C" PLINEART="1" TransValue="0.5" path="M121.8 4.42602 C121.8 13.9756 105.964 19.5852 58.7461 19.5852 C11.5302 19.5852 0 19.0991 0 9.54936 C0 0 14.3705 2.42701 61.5864 2.42701 C108.804 2.42701 111.575 1.42751 121.8 4.42602 Z" copath="M148.12 13.9476 C148.12 23.4972 109.846 31.2381 62.6278 31.2381 C15.412 31.2381 -22.8641 23.4972 -22.8641 13.9476 C-22.8641 4.39817 15.412 -3.34309 62.6278 -3.34309 C109.846 -3.34309 148.12 4.39817 148.12 13.9476 Z" gXpos="105.71783464567" gYpos="-1957.66812190551" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="152.31883464567" YPOS="9332.38288976379" OwnPage="26" ItemID="464239062" PTYPE="6" WIDTH="187.8" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M187.8 12.5782 C187.8 19.5253 145.761 25.1565 93.9 25.1565 C42.0405 25.1565 0 19.5253 0 12.5782 C0 5.63147 42.0405 0 93.9 0 C145.761 0 187.8 5.63147 187.8 12.5782 Z" copath="M187.8 12.5782 C187.8 19.5252 145.762 25.1564 93.8997 25.1564 C42.0405 25.1564 0 19.5252 0 12.5782 C0 5.63144 42.0405 0 93.8997 0 C145.762 0 187.8 5.63144 187.8 12.5782 Z" gXpos="17.460779624693" gYpos="-1532.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="302.31883464567" YPOS="9357.38288976379" OwnPage="26" ItemID="464230550" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="167.460779624693" gYpos="-1507.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="138.351393700787" YPOS="9360.38288976379" OwnPage="26" ItemID="464241686" PTYPE="6" WIDTH="147.767440944883" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M147.767 12.5782 C147.767 19.5253 114.69 25.1565 73.8837 25.1565 C33.0789 25.1565 0 19.5253 0 12.5782 C0 5.63147 33.0789 0 73.8837 0 C114.69 0 147.767 5.63147 147.767 12.5782 Z" copath="M147.767 12.5782 C147.767 19.5252 114.691 25.1564 73.8835 25.1564 C33.0789 25.1564 0 19.5252 0 12.5782 C0 5.63144 33.0789 0 73.8835 0 C114.691 0 147.767 5.63144 147.767 12.5782 Z" gXpos="3.49333867981042" gYpos="-1504.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="111.31883464567" YPOS="9387.38288976379" OwnPage="26" ItemID="464194758" PTYPE="6" WIDTH="99.9821653543304" HEIGHT="25.1564803149577" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M99.9822 12.5782 C99.9822 19.5253 77.6014 25.1565 49.9911 25.1565 C22.3818 25.1565 0 19.5253 0 12.5782 C0 5.63147 22.3818 0 49.9911 0 C77.6014 0 99.9822 5.63147 99.9822 12.5782 Z" copath="M99.9819 12.5782 C99.9819 19.5252 77.602 25.1564 49.9909 25.1564 C22.3818 25.1564 0 19.5252 0 12.5782 C0 5.63144 22.3818 0 49.9909 0 C77.602 0 99.9819 5.63144 99.9819 12.5782 Z" gXpos="-23.539220375307" gYpos="-1477.58267716536" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="236.11883464567" YPOS="9447.86123622048" OwnPage="26" ItemID="464210422" PTYPE="6" WIDTH="116.185314960629" HEIGHT="17" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="jaune" PCOLOR2="jaune" PLINEART="1" TransValue="0.5" path="M116.185 8.5 C116.185 13.1946 90.1775 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80558 26.009 0 58.0927 0 C90.1775 0 116.185 3.80558 116.185 8.5 Z" copath="M116.185 8.5 C116.185 13.1946 90.1776 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80557 26.009 0 58.0927 0 C90.1776 0 116.185 3.80557 116.185 8.5 Z" gXpos="99.4928346456706" gYpos="-1723.00984251969" gWidth="175.528211349722" gHeight="20" LAYER="0"/>
+        <PAGEOBJECT XPOS="156.11883464567" YPOS="9500.86123622048" OwnPage="26" ItemID="465113526" PTYPE="6" WIDTH="116.185314960629" HEIGHT="17" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="jaune" PCOLOR2="jaune" PLINEART="1" TransValue="0.5" path="M116.185 8.5 C116.185 13.1946 90.1775 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80558 26.009 0 58.0927 0 C90.1775 0 116.185 3.80558 116.185 8.5 Z" copath="M116.185 8.5 C116.185 13.1946 90.1776 17 58.0927 17 C26.009 17 0 13.1946 0 8.5 C0 3.80557 26.009 0 58.0927 0 C90.1776 0 116.185 3.80557 116.185 8.5 Z" gXpos="19.4928346456706" gYpos="-1670.00984251969" gWidth="175.528211349722" gHeight="20" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9260.63092125985" OwnPage="26" ItemID="465125958" PTYPE="4" WIDTH="274.96062992126" HEIGHT="59.4837205824491" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" copath="M0 0 L274.961 0 L274.961 59.4837 L0 59.4837 L0 0 Z" gXpos="14.5058023424964" gYpos="-1438.33275008032" gWidth="309.309" gHeight="262.791071590951" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="50"/>
+                <ITEXT CH="Le PPN du DUT MMI "/>
+                <para PARENT="title"/>
+                <ITEXT CH="cours de la catégorie informatique / réseaux"/>
+                <trail PARENT="subtitle"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="150.8" YPOS="9368.89101921416" OwnPage="26" ItemID="465226694" PTYPE="4" WIDTH="126.41883464567" HEIGHT="9.10268157325117" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" copath="M0 0 L126.419 0 L126.419 9.10268 L0 9.10268 L0 0 Z" gXpos="30.456480314961" gYpos="-1330.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et programmation"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9467.74141291495" OwnPage="26" ItemID="465295574" PTYPE="4" WIDTH="146.775314960631" HEIGHT="11.4879335417554" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" copath="M0 0 L146.775 0 L146.775 11.4879 L0 11.4879 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1231.22225842522" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="algorithmique et développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="216.8" YPOS="9483.42645228503" OwnPage="26" ItemID="465349542" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="96.456480314961" gYpos="-1215.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement multimedia"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="240.8" YPOS="9397.89101921416" OwnPage="26" ItemID="458761062" PTYPE="4" WIDTH="136.2" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L136.2 0 L136.2 11.9521 L0 11.9521 L0 0 Z" gXpos="120.456480314961" gYpos="-1301.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration et gestion de contenus"/>
+                <para PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="175.8" YPOS="9504.42645228503" OwnPage="26" ItemID="458860998" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="55.456480314961" gYpos="-1194.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="développement web"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="250.8" YPOS="9452.42645228503" OwnPage="26" ItemID="458818502" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="130.456480314961" gYpos="-1246.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.846669291339" YPOS="9498.42645228503" OwnPage="26" ItemID="458924854" PTYPE="4" WIDTH="109.8" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L109.8 0 L109.8 11.9521 L0 11.9521 L0 0 Z" gXpos="184.5031496063" gYpos="-1200.53721905514" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="intégration web 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="168.16883464567" YPOS="9340.98508031048" OwnPage="26" ItemID="458933030" PTYPE="4" WIDTH="154.1" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L154.1 0 L154.1 11.9521 L0 11.9521 L0 0 Z" gXpos="47.8253149606311" gYpos="-1357.97859102969" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="programmation objet et événementielle"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9396.89101921416" OwnPage="26" ItemID="458908614" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1302.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 1"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="308.247669291339" YPOS="9365.89101921416" OwnPage="26" ItemID="459004054" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="187.9041496063" gYpos="-1333.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 2"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.843519685039" YPOS="9443.89101921416" OwnPage="26" ItemID="458968518" PTYPE="4" WIDTH="86.5564803149607" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L86.5565 0 L86.5565 11.9521 L0 11.9521 L0 0 Z" gXpos="-0.499999999999602" gYpos="-1255.07265212601" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="services sur réseaux 3"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="280.2" YPOS="9299.31596062993" OwnPage="26" ItemID="459076134" PTYPE="4" WIDTH="114.6041496063" HEIGHT="37.8503937007881" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L114.604 0 L114.604 37.8504 L0 37.8504 L0 0 Z" copath="M0 0 L114.604 0 L114.604 37.8504 L0 37.8504 L0 0 Z" gXpos="280.2" gYpos="2915.69391338582" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="dès janvier"/>
+                <trail PARENT="normal text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="325.1" YPOS="9299.47165354331" OwnPage="26" ItemID="459040598" PTYPE="6" WIDTH="8.79999999999995" HEIGHT="9.17895275591081" FRTYPE="3" CLIPEDIT="1" PWIDTH="3" PCOLOR="Pantone 179 C" PCOLOR2="Pantone 179 C" PLINEART="1" TransValue="0.5" path="M8.8 2.07433 C8.8 6.54994 7.65584 9.17895 4.24439 9.17895 C0.833054 9.17895 0 8.95113 0 4.47549 C0 0 1.03826 1.13746 4.44959 1.13746 C7.86105 1.13746 8.06125 0.669025 8.8 2.07433 Z" copath="M10.7016 6.53677 C10.7016 11.0124 7.93629 14.6403 4.52483 14.6403 C1.11351 14.6403 -1.65192 11.0124 -1.65192 6.53677 C-1.65192 2.06128 1.11351 -1.56679 4.52483 -1.56679 C7.93629 -1.56679 10.7016 2.06128 10.7016 6.53677 Z" gXpos="221.099" gYpos="-1426.46912190552" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="192.938582677165" YPOS="9299.47401574804" OwnPage="26" ItemID="459128630" PTYPE="4" WIDTH="53.1999999999999" HEIGHT="29.1653543307075" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L53.2 0 L53.2 29.1654 L0 29.1654 L0 0 Z" copath="M0 0 L53.2 0 L53.2 29.1654 L0 29.1654 L0 0 Z" gXpos="192.938582677165" gYpos="2915.85196850393" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="dès octobre"/>
+                <trail PARENT="normal text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="212.238582677165" YPOS="9301.86123622048" OwnPage="26" ItemID="459116406" PTYPE="6" WIDTH="9" HEIGHT="7.96947244094554" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="jaune" PCOLOR2="jaune" PLINEART="1" TransValue="0.5" path="M9 3.98474 C9 6.18552 6.98537 7.96947 4.5 7.96947 C2.01472 7.96947 0 6.18552 0 3.98474 C0 1.78403 2.01472 0 4.5 0 C6.98537 0 9 1.78403 9 3.98474 Z" copath="M8.99998 3.98474 C8.99998 6.18553 6.98538 7.96947 4.5 7.96947 C2.01472 7.96947 0 6.18553 0 3.98474 C0 1.78402 2.01472 0 4.5 0 C6.98538 0 8.99998 1.78402 8.99998 3.98474 Z" gXpos="75.6125826771663" gYpos="-1869.00984251969" gWidth="175.528211349722" gHeight="20" LAYER="0"/>
+        <PAGEOBJECT XPOS="106.932283464567" YPOS="9301.46614173229" OwnPage="26" ItemID="459134742" PTYPE="4" WIDTH="69.6041496062996" HEIGHT="58.6110236220475" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L69.6041 0 L69.6041 58.611 L0 58.611 L0 0 Z" copath="M0 0 L69.6041 0 L69.6041 58.611 L0 58.611 L0 0 Z" gXpos="106.932283464567" gYpos="2917.84409448818" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="dès septembre"/>
+                <trail PARENT="normal text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.032283464567" YPOS="9303.46850393702" OwnPage="26" ItemID="459088006" PTYPE="6" WIDTH="10.0010000000004" HEIGHT="9.06299212598337" FRTYPE="1" CLIPEDIT="1" PWIDTH="3" PCOLOR="vert" PCOLOR2="vert" PLINEART="1" TransValue="0.5" path="M10.001 4.5315 C10.001 7.03426 7.7623 9.06299 5.0005 9.06299 C2.2388 9.06299 0 7.03426 0 4.5315 C0 2.02882 2.2388 0 5.0005 0 C7.7623 0 10.001 2.02882 10.001 4.5315 Z" copath="M10.001 4.53148 C10.001 7.03424 7.76236 9.06296 5.00048 9.06296 C2.2388 9.06296 0 7.03424 0 4.53148 C0 2.02881 2.2388 0 5.00048 0 C7.76236 0 10.001 2.02881 10.001 4.53148 Z" gXpos="5.1742284435897" gYpos="-1561.49706299214" gWidth="380.860779624692" gHeight="82.4489078247661" LAYER="0"/>
+        <PAGEOBJECT XPOS="193.965354330709" YPOS="9418.72566488345" OwnPage="26" ItemID="459096310" PTYPE="4" WIDTH="71.4" HEIGHT="11.95209922158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" copath="M0 0 L71.4 0 L71.4 11.9521 L0 11.9521 L0 0 Z" gXpos="73.6218346456697" gYpos="-1280.23800645672" gWidth="273.96062992126" gHeight="245.578060943307" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="base de données"/>
+                <trail PARENT="word cloud"/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
