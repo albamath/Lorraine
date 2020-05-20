@@ -417,14 +417,15 @@ Quid des surfaces algébriques ?
 
 ## Pour finir...
 
+
+![](alba-word-art.png)
+
 |                                                   |                                                |                                                        |
 |-------------------------------------------|----------------------------------------|-----------------------------------------|
 |parcours mixte math-info           |un vrai souci de l'accessibilité  |fan de logiciels libres|
-|                                                   |                                                |                                                        |
 |intérêt en médiation scientifique|enseignement dans le respect|continuité dans la recherche|
-|                                                   |                                                |                                                        |
 |facilités de contact                     |fibre "maker"|compétences techniques|
 
 J'aimerais beaucoup travailler avec vous.
 
-![](alba-timeline.png){width=100%}
+![](alba-timeline-viepro.png)
