@@ -150,6 +150,8 @@ mais ajouter une planche
 Recherche
 
 Présentation de ma recherche avant GAMBLE, j'ai 5 min.
+
+
 C'est plus que dans d'autres auditions mais quand même pas beaucoup.
 
 Commencer par rotation sur le cercle et sa relation avec
@@ -157,11 +159,11 @@ tore et billard dans un rectangle.
 
 Le faire avec de meilleures animations, de meilleures images.
 
-Ce serait bien de les assommer quand même avec la totale côté
+☑ Ce serait bien de les assommer quand même avec la totale côté
 résultats et applications
-- un slide résultats
-- un slide "liste des publis"
-- un slide applications
+- ☑ un slide résultats
+- ☑ un slide "liste des publis"
+- ☑ un slide applications
   --> la conjecture des Ehrenfest qui sort dans un corollaire
     dans l'article indice ergodique infini avec Serge
 
@@ -214,7 +216,7 @@ Première fois que j'ai une machine Linux où le wifi
 marche sans devoir redémarrer
 
 - oryx pro
-- mieux: ADER WS de System76
+- mieux: ADDER WS de System76
   c'est la seule machine sur le marché
   qui vient avec Linux et un écran 4K
   (comme chez Mac); l'autre a seulement
